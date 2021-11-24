@@ -570,7 +570,7 @@ button {
 /** about section **/
 
 .about {
-     background: #b1a1be;
+     background: #4d4157;
      margin-top: 60px;
      padding: 90px 0;
 }
@@ -641,7 +641,7 @@ button {
 
 .testimonial {
      margin-top: 80px;
-     background: url(../images/tes_bg.jpg);
+     background: url(../images/gif1.gif);
      background-repeat: no-repeat;
      background-size: cover;
      background-position: center;
@@ -848,3 +848,17 @@ button {
 
 /** end footer **/
 
+
+.qt-background {
+     background: url(../images/scroll.png) no-repeat;
+         background-position-x: 0%;
+         background-position-y: 0%;
+         background-attachment: scroll;
+         background-size: auto;
+     background-size: cover;
+     padding: 200px 0;
+     background-attachment: fixed;
+     background-position: center center;
+     position: relative;
+     margin-top: 50px;
+ }
